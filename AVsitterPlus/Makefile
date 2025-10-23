@@ -42,7 +42,7 @@ OPTIMIZED=AVP_sitA.lslo\
  AVP_root.lslo\
  AVP_select.lslo\
  Plugins/AVP_camera/AVP_camera.lslo\
- Plugins/AVP_control/Xcite!-Sensations/AVP_Xcite!.lslo\
+ Plugins/AVP_control/Xcite-Sensations/AVP_Xcite.lslo\
  Plugins/AVP_control/AVP_root-RLV-extra.lslo\
  Plugins/AVP_control/AVP_root-RLV.lslo\
  Plugins/AVP_control/AVP_root-control.lslo\
