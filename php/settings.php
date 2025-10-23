@@ -4,7 +4,7 @@
 MIT License
 
 Copyright (c) the AVsitter Contributors (http://avsitter.github.io)
-Copyright © Truth & Beauty Lab (http://avsitterplus.github.io)
+Copyright © Truth & Beauty Lab (https://avsitterplus.github.io)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

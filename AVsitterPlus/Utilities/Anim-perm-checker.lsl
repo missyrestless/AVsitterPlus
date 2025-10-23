@@ -6,11 +6,11 @@
  * file, You can obtain one at http://mozilla.org/MPL/2.0/.
  *
  * Copyright © the AVsitter Contributors (http://avsitter.github.io)
- * Copyright © Truth & Beauty Lab (http://avsitterplus.github.io)
+ * Copyright © Truth & Beauty Lab (https://avsitterplus.github.io)
  *
  * Please consider supporting continued development of AVsitterPlus and
  * receive automatic updates and other benefits! All details and user
- * instructions can be found at http://avsitterplus.github.io
+ * instructions can be found at https://avsitterplus.github.io
  */
 
 Owner_Say(string say)

@@ -9,7 +9,7 @@
  *
  * Please consider supporting continued development of AVsitterPlus and
  * receive automatic updates and other benefits! All details and user
- * instructions can be found at http://avsitterplus.github.io
+ * instructions can be found at https://avsitterplus.github.io
  */
 
 // Placed in prop objects, this script sends the uuid of any Lockguard rings to the script in furniture.
